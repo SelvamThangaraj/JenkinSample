@@ -43,7 +43,7 @@ C:\Windows\system32>taskkill /f /pid 1884
 SUCCESS: The process with PID 1884 has been terminated.
 
 ----------------------------
-MAVEN_HOME:C:\java cognizant\apache-maven-3.5.0-bin\apache-maven-3.5.0
+MAVEN_HOME:C:\java\apache-maven-3.5.0-bin\apache-maven-3.5.0
 
 
 Git: https://github.com/SelvamThangaraj/SpringBootRestHibernateMySqlJUnit.git
